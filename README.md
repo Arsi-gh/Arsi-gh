@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arsalan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frond-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : (there are multipul ways I'll write it down here):
+- 💞️ I'm looking to collaborate on an internship
+- 📫 How to reach me : (there are multiple ways I'll write them down here):
 - instagram : @Aris-nist
 - telegram : @ArsiWasHere || (https://t.me/ArsiWasHere)
 - email : arsalanghoochani15@gmail.com
