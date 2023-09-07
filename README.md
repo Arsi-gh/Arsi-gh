@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on new projects as a way to develop my skills <br>I'm looking to collaborate with companies as a junior developer<br>I'm currently learning react.js as a front-end development technology.<br>Fun fact : I used to love light mode :)
+I'm currently working on new projects as a way to develop my skills <br>I'm looking to collaborate with companies as a junior developer<br>I.<br>Fun fact : I used to love light mode :)
 
 
 ## 🌐 Socials:
